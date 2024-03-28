@@ -65,7 +65,7 @@ https://azure.microsoft.com/en-us/pricing/details/cosmos-db/autoscale-provisione
 Additionally, the **Pricing Calculator** is useful for estimating how much it will cost to actually use Cosmos DB.
 https://azure.microsoft.com/en-us/pricing/calculator/
 
-## Blobs (Rebranding)
+## Blog Articles - preview, generally available, rebranding or updates
 
 Microsoft products may change names from time to time. Azure Cosmos DB was previously known as Azure DocumentDB. Many features of Azure DocumentDB are inherited by Cosmos DB. Therefore, the old blog articles on DocumentDB are also useful to quickly understand the essence of Cosmos DB.
 https://azure.microsoft.com/en-us/updates/documentdb-customers-welcome-to-azure-cosmos-db/
