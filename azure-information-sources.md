@@ -9,7 +9,7 @@ This article uses Azure Cosmos DB (Azure's NoSQL database service) as an example
 ## Microsoft Learn
 
 First, you can quickly find materials to help you learn Cosmos DB on **Microsoft Learn**. Go to the page below and search for the keyword `Cosmos DB`.
-https://learn.microsoft.com/ja-jp/training/browse/
+https://learn.microsoft.com/en-us/training/browse/
 
 ## Official Product Page
 
@@ -49,7 +49,7 @@ https://learn.microsoft.com/en-us/rest/api/cosmos-db/
 
 You can use ARM Template, Azure Bicep, and Terraform to define and deploy Cosmos DB accounts.
 You can find detailed information from the **resource definition reference page**.
-https://learn.microsoft.com/ja-jp/azure/templates/microsoft.documentdb/databaseaccounts
+https://learn.microsoft.com/en-us/azure/templates/microsoft.documentdb/databaseaccounts
 
 You can also use Azure portal, Azure CLI or Azure PowerShell to deploy Azure resources.
 You can find that information in the **quickstart** pages in official documentation.
