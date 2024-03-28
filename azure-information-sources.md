@@ -13,7 +13,7 @@ https://learn.microsoft.com/ja-jp/training/browse/
 
 ## Official Product Page
 
-On the **official Azure Cosmos DB product page**, you will find some important features of Cosmos DB, the latest features, typical use cases, customer usage examples, links to YouTube videos and X (Twitter) accounts, FAQs, etc. information can be obtained.
+On the **official Azure Cosmos DB product page**, you will find some important features of Cosmos DB, the latest features, typical use cases, customer usage examples, links to YouTube videos and X (Twitter) accounts, FAQs, etc.
 https://azure.microsoft.com/en-us/products/cosmos-db
 
 ## Documents
